@@ -1,0 +1,5 @@
+.Spacer {
+    display: flex;
+    height: 100%;
+    width: var(--width);
+}

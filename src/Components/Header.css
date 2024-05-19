@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #FEFAF6;
+}
+.header img {
+    height: 50px;
+}
+.header ul {
+    list-style-type: none;
+}
+.header ul li {
+    display: inline;
+    margin: 0 20px;
+}

@@ -1,0 +1,30 @@
+.Projects {
+    display: flex;
+    flex-direction: column;
+    background-color: #FEFAF6;
+    height: 100vh;
+}
+
+.projects-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+}
+
+.projects-body {
+    display: flex;
+    height: 90%;
+}
+
+.projects-box-column {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.projects-box-row {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
